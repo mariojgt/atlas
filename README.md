@@ -34,7 +34,7 @@ Use your laravel translations into your javascript frameworks in am very simple 
 
 
 
-### You can also generate a fidical js version like this
+### You can also generate a fisical js version like this
 
 ```php
 use Mariojgt\Atlas\Controllers\AtlasController;
