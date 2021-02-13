@@ -2,7 +2,12 @@
     "name": "mariojgt/atlas",
     "description": "A Laravel Package Atlas, a quick start for new laravel Packages",
     "keywords": [
-        "laravel"
+        "laravel",
+        "translation",
+        "laravel translation",
+        "laravel javascript translation",
+        "vue laravel javascript translation",
+        "vue laravel translation"
     ],
     "type": "laravel",
     "license": "MIT",
